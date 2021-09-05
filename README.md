@@ -5,6 +5,6 @@ Hello, My name is Sarah and I'm a Freshman at William & Mary. I'm on the Women's
 <img src="AE7048B0-970D-4647-95A0-AD7F4E24C127_1_105_c.jpeg" width = "170" height = "256"/> 
 
 #### Informal responses:
-<img src=cd88bddb13a843166cd64f3b9267fcc8fd92cc5f
+<img src="cd88bddb13a843166cd64f3b9267fcc8fd92cc5f"
  
 #### Projects:
